@@ -12,19 +12,19 @@ function Contact() {
       <div className='lg:w-1/2 text-2xl lg:pl-6 space-y-3'>
       <div className='flex justify-start items-center gap-2'>
       <FaLocationDot />
-      <p>Kathmandu,Nepal</p>
+      <p>Kathmandu, Nepal</p>
       </div>
       <div className='flex justify-start items-center gap-2'>
       <FaPhone/>
-      <p>Mobile: +977 9843622366</p>
+      <p>Mobile: +9779843622366</p>
       </div>
       <div className='flex justify-start items-center gap-2'>
       <IoMdMail />
-      <p>Email: jeevan.karki9@outlook.com</p>
+      <p>Email: jeevankarki9@outlook.com</p>
       </div>
       <div className='flex justify-start items-center gap-2'>
       <IoMdMail />
-      <p>Work Email: jeevan.karki@hazesoft.co</p>
+      <p>Work: jeevan.karki@hazesoft.co</p>
       </div>
 
       </div>
